@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "category": "Appetizers",
+      "image": "https://img.freepik.com/free-photo/kanape-with-mix-salad-side-view_141793-2377.jpg?w=1380&t=st=1706942419~exp=1706943019~hmac=62701a0a71cf529d63512a16325f71ce5132dfb95ae0368ae7a5175b834a0590"
+    },
+    {
+      "category": "Main Dishes",
+      "image": "https://img.freepik.com/free-photo/top-view-beyti-kebab-served-with-ayran-pickles_141793-2113.jpg?w=826&t=st=1706942492~exp=1706943092~hmac=484d7eb0f04d1f292b6deb186a31c332f822782e48ab87f047cc1342815b2b7a"
+    },
+    {
+      "category": "Side Dishes",
+      "image": "https://img.freepik.com/free-photo/front-view-chicken-salad-with-vegetables-dark-grey-table-diet-health-salad_140725-72874.jpg?w=740&t=st=1706942557~exp=1706943157~hmac=48d36669979821904642530ecf9929427e740ba71d617545c0b838b863e63c59"
+    },
+    {
+      "category": "Desserts",
+      "image": "https://img.freepik.com/free-photodessert-cake-with-chocolate-jam_144627-6614.jpg?w=1380&t=st=1706942593~exp=1706943193~hmac=51c5d900186b1c2a1c4dfafb4abdd51fbc6ba28115480e4d6d5667090b4dfa7a"
+    },
+    {
+      "category": "Kid-Friendly",
+      "image": "https://img.freepik.com/free-photo/top-view-cat-shape-pancakes_23-2148572204.jpg?w=900&t=st=1706942643~exp=1706943243~hmac=12b282d8bb09cb0ece30d7a1fa5b24ea557cf0458391f07f31875b53993a1dea"
+    },
+    {
+      "category": "Beverages",
+      "image": "https://img.freepik.com/free-photo/four-different-cocktail-smoothies-with-milky-cream-top_114579-1097.jpg?w=900&t=st=1706944068~exp=1706944668~hmac=3ac5599661a83a1f7e5ae5ec4419059e1ca5edd3a9d1856060faa5518d579741"
+    }
+  ]
+}
